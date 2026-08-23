@@ -96,14 +96,14 @@ export const birthdayData = {
     {
       question: "Apa makanan kesukaanku pas kita lagi jalan?",
       options: ["Nasi Goreng", "Ice Cream", "Seblak", "Mie Ayam"],
-      correctAnswer: 2,
+      correctAnswer: 3,
       wrongMessage: "Hmm... kayaknya kamu kurang perhatiin aku deh 😤",
       successMessage: "Hehe iya bener banget! Pinter deh ❤️",
     },
     {
       question: "Siapa yang lebih sering ngambek?",
       options: ["Aku", "Kamu", "Sama aja", "Gak pernah ngambek dong"],
-      correctAnswer: 1,
+      correctAnswer: 0,
       wrongMessage: "Hayo ngakuuu! Jangan bohong ah 😂",
       successMessage: "Nah itu sadar wkwk, i love you anyway! 💖",
     }
