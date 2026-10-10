@@ -56,8 +56,8 @@ export const birthdayData = {
   ],
 
   letter: {
-    title: "For You",
-    content: "Before anything else, I just want you to know how happy I am that I get to share these moments with you. You make everyday better just by being in it. Happy birthday!",
+    title: "untukmu Sayangku",
+    content: "setelah tiup lilin, ayo kita pergi main. sampai 40an, 60an semoga kebagian kebahagiaan. untukmu wanita Kesayangan.",
   },
 
   final: {
