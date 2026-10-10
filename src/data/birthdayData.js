@@ -75,7 +75,7 @@ export const birthdayData = {
     },
     {
       date: "The First Date",
-      title: "Coffee & Nervous Laughs",
+      title: "Movie & Nervous Laughs",
       description: "We talked for hours and I didn't want the day to end.",
     },
     {
