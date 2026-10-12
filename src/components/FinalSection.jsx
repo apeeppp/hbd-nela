@@ -17,6 +17,8 @@ export default function FinalSection() {
           <img 
             src={final.image} 
             alt="Final Memory"
+            loading="lazy"
+            decoding="async"
             style={{ 
               width: '100%', 
               height: 'auto', 
@@ -50,6 +52,8 @@ export default function FinalSection() {
           <img 
             src={final.lastImage} 
             alt="Last Photo"
+            loading="lazy"
+            decoding="async"
             style={{ 
               width: '100%', 
               borderRadius: '100px 100px 8px 8px',

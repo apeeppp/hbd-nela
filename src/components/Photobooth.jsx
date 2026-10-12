@@ -36,6 +36,8 @@ export default function Photobooth() {
             <img 
               src={item.image} 
               alt={`Photobooth ${index + 1}`}
+              loading="lazy"
+              decoding="async"
               style={{
                 width: '100%',
                 height: 'auto',

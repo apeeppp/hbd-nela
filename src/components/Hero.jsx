@@ -22,6 +22,8 @@ export default function Hero() {
         <img 
           src={birthdayData.hero.image} 
           alt="Hero" 
+          loading="lazy"
+          decoding="async"
           style={{ 
             width: '100%', 
             height: 'auto', 

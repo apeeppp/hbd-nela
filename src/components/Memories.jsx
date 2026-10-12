@@ -44,6 +44,8 @@ export default function Memories({ onImageClick }) {
             <img 
               src={memory.image} 
               alt={`Memory ${index + 1}`}
+              loading="lazy"
+              decoding="async"
               onClick={() => onImageClick && onImageClick(memory.image)}
               style={{
                 width: '100%',

@@ -28,6 +28,8 @@ export default function FullScreenMemory() {
         <img 
           src={fullScreenMemory.image} 
           alt="Full Screen Memory"
+          loading="lazy"
+          decoding="async"
           style={{
             width: '100%',
             height: '100%',
