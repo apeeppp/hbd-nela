@@ -4,45 +4,45 @@ export const birthdayData = {
   hero: {
     title: "Happy Birthday",
     subtitle: "Today is all about you.",
-    image: "/src/assets/images/photo-01.png",
+    image: "/images/photo-01.png",
   },
 
   intro: "Before anything else, I just want you to know how happy I am that I get to share these moments with you.",
 
   memories: [
     {
-      image: "/src/assets/images/photo-02.png",
+      image: "/images/photo-02.png",
       caption: "One of those random moments I want to remember.",
     },
     {
-      image: "/src/assets/images/photo-03.jpg",
+      image: "/images/photo-03.jpg",
       caption: "Another day that became a memory.",
     },
   ],
 
   fullScreenMemory: {
-    image: "/src/assets/images/photo-04.jpg",
+    image: "/images/photo-04.jpg",
     caption: "Some moments deserve a little more space.",
   },
 
   photoPair: [
     {
-      image: "/src/assets/images/photo-05.jpg",
+      image: "/images/photo-05.jpg",
       caption: "A special day with you.",
     },
     {
-      image: "/src/assets/images/photo-06.jpg",
+      image: "/images/photo-06.jpg",
       caption: "Always finding reasons to smile.",
     },
   ],
 
   photobooth: [
     {
-      image: "/src/assets/images/photo-07.jpg",
+      image: "/images/photo-07.jpg",
       caption: "Us being us.",
     },
     {
-      image: "/src/assets/images/photo-08.png",
+      image: "/images/photo-08.png",
       caption: "Perfectly imperfect.",
     },
   ],
@@ -61,8 +61,8 @@ export const birthdayData = {
   },
 
   final: {
-    image: "/src/assets/images/photo-09.jpg",
-    lastImage: "/src/assets/images/photo-10.jpg",
+    image: "/images/photo-09.jpg",
+    lastImage: "/images/photo-10.jpg",
     title: "Happy Birthday ❤️",
     message: "Thank you for being part of my story. And there are still so many memories waiting for us.",
   },

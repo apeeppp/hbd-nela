@@ -14,7 +14,7 @@ export default function PuzzleGame({ onSolved }) {
   const [aspectRatio, setAspectRatio] = useState(1); // Default square
 
   const gridSize = 3;
-  const image = "/src/assets/images/a.jpg";
+  const image = "/images/a.jpg";
 
   // Initialize and shuffle
   useEffect(() => {
